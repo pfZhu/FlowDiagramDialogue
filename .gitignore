@@ -1,0 +1,6 @@
+classifier/.idea/*
+.idea/*
+.DS_Store
+*.iml
+target/*
+out/production/FlowDiagramDialogue/META-INF/FlowDiagramDialogue.kotlin_module
